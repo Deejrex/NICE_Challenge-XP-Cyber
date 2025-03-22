@@ -1,0 +1,11 @@
+1. I opened the Backup VM, then logged into it.
+
+2. I used these commands, "sudo apt-get update && sudo apt-get upgrade", to update the vulnerable FTP.
+
+3. I logged into the Domain-Controller VM. I then opened Server Manager > Tools > Active Directory Users and Computers > daswebs.com > Users.
+
+4. I right clicked on "Guest" and selected "properties". Then I clicked on the "Member Of" tab and highlighted Domain Admin and clicked on remove then apply.
+
+5. I logged into the Workstation-Desk VM and opened Firefox web browser. I typed in "joomla.daswebs.com/administrator".
+
+6. I signed in using the log-in credentials provided in the Challenge Info. I updated joomla to the newest version.
