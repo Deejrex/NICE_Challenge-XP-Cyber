@@ -1,0 +1,23 @@
+1. I launched the Domain Controller.
+
+2. I signed in to the playerone user account.
+
+3. I opened the server manager, navigated to Tools, then clicked on Active Directory Users and Computers.
+
+4. I clicked on users.
+
+5. I disabled Rob's account.
+
+6.I added Gary Thatcher to the Domain Admins security group.
+
+7. I created the HRSec, AccountingSec and Miscellaneous security groups.
+
+8. I added Brimlock and Sergio to AccountingSec and HRSec respectively and every other non-admin users to Miscellaneous security group.
+
+9. I opened File explorer, clicked on Network, turned on network discovery and file sharing.
+
+10. I opened FILESHARE then opened the properties for Accounting, changed the permissions for Domain Admins to full control. Also gave AccountSec read, write, list permissions and denied all permissions on HRSec and Miscellaneous groups.
+
+11. I opened properties for hr then changed the permissions for Domain Admins to full control. Changed permissions for HRSec group to read, write, and list and denied all permission for AccountingSec and Miscellaneous.
+
+12. I went to the user properties of Brimlock Stone and Sergio Chanel and under Account > Log On To... > I clicked on This user can only log on to the following computers: WORKSTATION and clicked Add . Then apply changes.
