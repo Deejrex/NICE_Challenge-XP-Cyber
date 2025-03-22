@@ -1,0 +1,27 @@
+1. Opened Workstation-Desk, HTML5 Console.
+
+2. Signed into the playerone user profile.
+
+3. Opened File Explorer.
+
+4. Navigated to Flashdrive(E:), right clicked on it and selected "Scan with ClaimWin Free Antivirus".
+
+5. After the scan completed, I found 4 infected files.
+
+6. I recorded the location of the infected files:
+
+- E:\school\IST25\valentinesday.ptt.vsx
+
+- E:\thumb.ini
+
+- E:\tux\extmenu.cfg
+
+- E:\work\HRwork_files\permanent.tmp
+
+7. Deleted 3 infected files.
+
+8. I searched up "hidden files", then opened the option for control panel.
+
+9. I enabled the Show hidden file option, this allowed me to view the last infected file(thumb.ini).
+
+10. Deleted the last infected file.
