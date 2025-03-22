@@ -1,0 +1,2 @@
+1. I logged in  the Workstation-Desk, using the playerone profile.
+2. To map the HR network share to the R drive, I opened File Explorer. Navigated to "Network" then "FILESHARE". I right clicked on hr then left clicked on "Map network drive...". I then selected "R:" and I made sure "Reconnect at sign-in" was checked and "Connected using different credentials" was unchecked. I then clicked "Finish". I then closed all windows.
